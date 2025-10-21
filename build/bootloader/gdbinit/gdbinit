@@ -1,0 +1,2 @@
+source /home/oliver/personal/stair-lights/build/bootloader/gdbinit/symbols
+source /home/oliver/personal/stair-lights/build/bootloader/gdbinit/connect
